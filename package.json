@@ -1,0 +1,15 @@
+{
+  "name": "hwinfo-monitoring",
+  "version": "1.0.0",
+  "description": "Sends hwinfo sensor alerts to IFFT for notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Razvan Lada-Moldovan",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.29.4",
+    "request": "^2.83.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "worker": "WORKER_NAME",
+    "ifft": {
+        "event": "IFFT_TRIGGER_NAME",
+        "key": "IFFT_MAKER_KEY"
+    }
+}
